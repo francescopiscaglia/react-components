@@ -1,10 +1,12 @@
-import reactLogo from '../assets/react.svg'
-
 export default function AppHeader() {
+
+    // logic
+    const pageTitle = "Il mio blog";
+
+    // render
     return (
         <header>
-            <img src={reactLogo} className="logo react" alt="React logo" />
-            <h1>Hello world</h1>
+            <strong>{pageTitle}</strong>
         </header>
     );
 };

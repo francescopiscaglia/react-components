@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+    font-family: arial;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+header {
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1.5rem;
+}
