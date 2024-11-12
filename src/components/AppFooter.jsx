@@ -3,7 +3,7 @@ export default function AppFooter() {
         <footer>
             <div className="container">
                 <p>
-                    &copy; {new Date().getFullYear()} Vite + React + Tailwind CSS Starter Template
+                    &copy; {new Date().getFullYear()} - All rights reserved
                 </p>
             </div>
 
